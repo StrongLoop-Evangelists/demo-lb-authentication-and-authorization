@@ -1,6 +1,6 @@
 # Simple Authentication Demo
 
-This is the demo source for my blog post on working with authentication and authorization
-with LoopBack. You can read that post here: 
+Demo source for working with authentication and authorization using LoopBack.
 
-[https://strongloop.com/strongblog/working-with-loopback-authentication-and-authorization/](https://strongloop.com/strongblog/working-with-loopback-authentication-and-authorization/)
+- Blog post: [Working with LoopBack Authentication and Authorization](https://strongloop.com/strongblog/working-with-loopback-authentication-and-authorization/)
+- Author: [Raymond Camden](https://twitter.com/raymondcamden)
